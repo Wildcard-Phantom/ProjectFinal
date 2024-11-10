@@ -34,3 +34,7 @@ body {
 .nav-list a:hover {
     background-color:rgba(234,154,76,1.00);
 }
+
+.section1{margin: 0 auto; background: rgba(217,154,97,1.00); width: 1000px; height: 1000px}
+
+.flexbox1{display: flex;}
