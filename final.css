@@ -35,6 +35,6 @@ body {
     background-color:rgba(234,154,76,1.00);
 }
 
-.section1{margin: 0 auto; background:rgba(239,179,139,1.00); width: 1000px; height: 1000px; padding-top: 10px}
+.section1{margin: 0 auto; background:rgba(239,179,139,1.00); width: 1000px; height: 1000px; padding: 20px}
 
-.flexbox1{dispaly; flex; background: rgba(215,112,109,1.00); width: 900px; height: 900px; margin: 0 auto}
+.flexbox1{display: flex; background: rgba(207,128,85,1.00); width: 900px; height: 900px; margin: 0 auto; padding: 30px}
