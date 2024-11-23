@@ -100,6 +100,8 @@ body {
 .flexbox1{display: flex; background: rgba(207,128,85,1.00); width: 900px; height: 900px; margin: 0 auto; padding: 30px}
 
 
-.section3{margin: 0 auto; background: rgba(239,179,139,1.00); width: 1000px; height: 90px}
+.section3{margin: 0 auto; background: rgba(239,179,139,1.00); width: 1000px; height: 90px; padding: 1px}
 
 .section4{margin: 0 auto; background: rgba(234,186,151,1.00) ; width: 1000px; height: 750px}
+
+.section5{margin: 0 auto; background: rgba(243,191,134,1.00); width: 1000px; height: 100px}
