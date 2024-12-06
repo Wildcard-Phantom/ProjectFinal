@@ -110,7 +110,7 @@ body {
 
 .container1 { display: flex; justify-content: center; align-items: center; width: 1000px; height: 150px; /* Adjust the height as needed */ background-color: rgba(243,191,134,1.00); margin: 0 auto} 
 
-.flexbox2{margin-left: 0 auto; width: 150px; height: 150px; display: flex; background-color: rgba(243,191,134,1.00);  }
+.flexbox2{margin-left: 0 auto; width: 150px; height: 150px; display: flex; background-color: rgba(243,191,134,1.00); }
 
 .section7{margin: 0 auto; background: rgba(243,191,134,1.00); width: 1200px; height: 100px; padding: 10px}
 
