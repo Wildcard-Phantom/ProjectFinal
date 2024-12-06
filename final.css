@@ -108,7 +108,7 @@ body {
 
 .section6{margin: 0 auto; background: rgba(207,128,85,1.00); width: 1200px; height: 900px; padding: 5px }
 
-.container { display: flex; justify-content: center; align-items: center; width: 1000px; height: 100px; /* Adjust the height as needed */ background-color: rgba(243,191,134,1.00); padding: 20px 20px 20px 10px } 
+.container1 { display: flex; justify-content: center; align-items: center; width: 1000px; height: 150px; /* Adjust the height as needed */ background-color: rgba(243,191,134,1.00); margin: 0 auto} 
 
 .section7{margin: 0 auto; background: rgba(243,191,134,1.00); width: 1200px; height: 100px; padding: 1px}
 
