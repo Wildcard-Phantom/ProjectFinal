@@ -97,7 +97,7 @@ body {
 
 .section1{margin: 0 auto; background:rgba(239,179,139,1.00); width: 1200px; height: 1000px; padding: 20px}
 
-.flexbox1{display: flex; background: rgba(207,128,85,1.00); width: 1000px; height: 900px; margin: 0 auto; padding: 30px}
+.flexbox1{display: flex; background: rgba(207,128,85,1.00); width: 1000px; height: 800px; margin: 0 auto; padding: 30px}
 
 
 .section3{margin: 0 auto; background: rgba(239,179,139,1.00); width: 1200px; height: 90px; padding: 1px}
