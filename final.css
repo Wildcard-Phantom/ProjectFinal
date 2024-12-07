@@ -108,7 +108,7 @@ body {
 
 .section5{margin: 0 auto; background: rgba(243,191,134,1.00); width: 1200px; height: 100px; padding: 1px}
 
-.section6{margin: 0 auto; background: rgba(207,128,85,1.00); width: 1200px; height: 900px; padding: 5px }
+.section6{margin: 0 auto; background: rgba(207,128,85,1.00); width: 1200px; height: 950px; padding: 5px }
 
 .container1 { display: flex; justify-content: center; align-items: center; width: 1000px; height: 150px; /* Adjust the height as needed */ background-color: rgba(243,191,134,1.00); margin: 0 auto} 
 .container2{width: 1000px; height: 250px; margin: 0 auto;}
@@ -120,6 +120,10 @@ body {
 .li1{font-size: 22px}
 
 .li{font-size: 22px}
+
+
+.article2{width: 1000px; height: 190px; background-color: rgba(243,191,134,1.00) }
+
 
 .section7{margin: 0 auto; background: rgba(243,191,134,1.00); width: 1200px; height: 100px; padding: 10px}
 
