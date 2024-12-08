@@ -104,11 +104,23 @@ body {
 
 .section3{margin: 0 auto; background: rgba(243,191,134,1.00) ; width: 1200px; height: 90px; padding: 1px}
 
-.section4{margin: 0 auto; background: rgba(207,128,85,1.00) ; width: 1200px; height: 1000px}
+.section4{margin: 0 auto; background: rgba(207,128,85,1.00) ; width: 1200px; height: 1300px}
 
 .img{margin: 0px 430px}
 
+.img1{margin-left: 880px; width: 70px; height: 70px}
+
+.img2{margin: 0px 0px 0px 350px}
+
 .article3{margin: 0 auto; width: 950px; height: 250px; background-color: rgba(243,191,134,1.00) }
+
+.article4{margin: 0 auto; width: 950px; height: 200px; background-color: rgba(243,191,134,1.00)}
+
+.article5{margin: 0 auto; width:950px; height: 340px; background-color: rgba(243,191,134,1.00)}
+
+
+
+.li2{font-size: 20px}
 
 .section5{margin: 0 auto; background: rgba(243,191,134,1.00); width: 1200px; height: 100px; padding: 1px}
 
@@ -126,7 +138,7 @@ body {
 .li{font-size: 22px}
 
 
-.article2{width: 1000px; height: 190px; background-color: rgba(243,191,134,1.00) }
+.article2{width: 1000px; height: 190px; background-color: rgba(243,191,134,1.00)}
 
 
 .section7{margin: 0 auto; background: rgba(243,191,134,1.00); width: 1200px; height: 100px; padding: 10px}
