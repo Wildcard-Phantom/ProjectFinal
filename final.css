@@ -143,5 +143,19 @@ body {
 
 .section7{margin: 0 auto; background: rgba(243,191,134,1.00); width: 1200px; height: 100px; padding: 10px}
 
-.section8{margin: 0 auto; background: rgba(207,128,85,1.00); width: 1201px; height: 900px}
+.section8{margin: 0 auto; background: rgba(207,128,85,1.00); width: 1201px; height: 1300px; padding: 1px}
 
+.article6{margin: 0 auto; background-color: rgba(243,191,134,1.00); width: 1000px; height: 190px}
+.img3{margin: 0px 890px 1000px }
+
+.article7{ margin: 0 auto; background-color: rgba(243,191,134,1.00); width: 1100px; height: 410px }
+
+.li3{font-size: 25px}
+
+.li4{font-size: 29px}
+
+.img4{margin: 0px 900px}
+
+.flex1{display: flex; justify-content: space-between; max-width: 1100px; max-height: 600px; padding: 10px}
+
+.article8{display: flex; width: 650px; height: 250px; background-color: rgba(243,191,134)}
