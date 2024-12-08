@@ -1,3 +1,41 @@
 @charset "utf-8";
 /* CSS Document */
 body{background: url("Images/kittypaw.jpg")}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #D08253;
+    padding: 15px;
+}
+
+.nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav-list li {
+    margin-right: 20px;
+}
+
+.nav-list a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.nav-list a:hover {
+    background-color:rgba(234,154,76,1.00);
+}
+
+.header{width: 1500px; height: 65px; background-color: rgba(227,162,103,1.00); box-sizing: 10px}
+
+
+.section{margin: 0 auto; background: rgba(243,191,134,1.00) ; width: 1200px; height: 90px; padding: 1px}
