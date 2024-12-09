@@ -1,6 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
-body{background: url("Images/kittypaw.jpg")}
+/* for desktops */
+/* Media Query for screens 768px wide or narrower */ @media only screen and (max-width: 2000px){body{background: url("Images/kittypaw.jpg")}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -163,3 +164,6 @@ body {
 .flex2{display: flex; justify-content: space-between; width: 1100px; height: 600px; padding: 10px}
 
 .article9{width: 800px; height: 250px; background-color: rgba(243,191,134,1.00)}
+	
+
+}
